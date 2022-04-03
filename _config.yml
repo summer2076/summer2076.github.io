@@ -288,5 +288,5 @@ defaults:
       comments: # true
       share: true
       related: true
-future : true
-published : true
+future: true
+published: true
